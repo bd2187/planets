@@ -1,0 +1,128 @@
+[
+  {
+		"planet": "Tattooine",
+		"region": "Outer Rim Territories",
+		"sector": "Arkanis Sector",
+		"system": "Tatoo system",
+		"link": "http://starwars.wikia.com/wiki/Tatooine"
+	},
+	{
+		"planet": "Alderaan",
+		"region": "Core Worlds",
+		"sector": "Alderaan Sector",
+		"system": "Alderaan system",
+		"link": "http://starwars.wikia.com/wiki/Alderaan"
+	},
+	{
+		"planet": "Yavin",
+		"region": "Outer Rim Territories",
+		"sector": "Gordian Reach",
+		"system": "Yavin system",
+		"link": "http://starwars.wikia.com/wiki/Yavin"
+	},
+	{
+		"planet": "Dantooine",
+		"region": "Outer Rim Territories",
+		"sector": "Raioballo Sector",
+		"system": "Myto's Arrow",
+		"link": "http://starwars.wikia.com/wiki/Dantooine"
+	},
+	{
+		"planet": "Hoth",
+		"region": "Outer Rim Territories",
+		"sector": "Anoat Sector",
+		"system": "Hoth system",
+		"link": "http://starwars.wikia.com/wiki/Hoth"
+	},
+	{
+		"planet": "Bespin",
+		"region": "Outer Rim Territories",
+		"sector": "Anoat Sector",
+		"system": "Bespin system",
+		"link": "http://starwars.wikia.com/wiki/Bespin"
+	},
+	{
+		"planet": "Dagobah",
+		"region": "Outer Rim Territories",
+		"sector": "Sluis Sector",
+		"system": "Dagobah system",
+		"link": "http://starwars.wikia.com/wiki/Dagobah"
+	},
+	{
+		"planet": "Endor",
+		"region": "Outer Rim Territories",
+		"sector": "Moddell Sector",
+		"system": "Endor system",
+		"link": "http://starwars.wikia.com/wiki/Endor"
+	},
+	{
+		"planet": "Coruscant",
+		"region": "Core Worlds",
+		"sector": "Coruscant subsector, Corusca sector",
+		"system": "Coruscant system",
+		"link": "http://starwars.wikia.com/wiki/Coruscant"
+	},
+	{
+		"planet": "Naboo",
+		"region": "Mid Rim",
+		"sector": "Chommell sector",
+		"system": "Naboo system",
+		"link": "http://starwars.wikia.com/wiki/Naboo"
+	},
+	{
+		"planet": "Geonosis",
+		"region": "Outer Rim Territories",
+		"sector": "Arkanis sector",
+		"system": "Geonosis system",
+		"link": "http://starwars.wikia.com/wiki/Geonosis"
+	},
+	{
+		"planet": "Felucia",
+		"region": "Outer Rim Territories",
+		"sector": null,
+		"system": "Felucia system",
+		"link": "http://starwars.wikia.com/wiki/Felucia"
+	},
+	{
+		"planet": "Mustafar",
+		"region": "Outer Rim Territories",
+		"sector": "Atravis Sector",
+		"system": "Mustafar system",
+		"link": "http://starwars.wikia.com/wiki/Mustafar"
+	},
+	{
+		"planet": "Utapau",
+		"region": "Outer Rim Territories",
+		"sector": "Tarabba Sector",
+		"system": "Utapau system",
+		"link": "http://starwars.wikia.com/wiki/Utapau"
+	},
+	{
+		"planet": "Jakku",
+		"region": "Western Reaches, Inner Rim",
+		"sector": null,
+		"system": "Jakku system",
+		"link": "http://starwars.wikia.com/wiki/Jakku"
+	},
+	{
+		"planet": "D'Qar",
+		"region": "Outer Rim Territories",
+		"sector": null,
+		"system": "Ileenium system",
+		"link": "http://starwars.wikia.com/wiki/D%27Qar"
+	},
+	{
+		"planet": "Hosnian Prime",
+		"region": "Core Worlds",
+		"sector": null,
+		"system": "Hosnian system",
+		"link": "http://starwars.wikia.com/wiki/Hosnian_Prime"
+	},
+	{
+		"planet": "Starkiller Base",
+		"region": "Unknown Regions",
+		"sector": null,
+		"system": "StarKiller Base system",
+		"link": "http://starwars.wikia.com/wiki/Starkiller_Base"
+	}
+]
